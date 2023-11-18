@@ -1,2 +1,7 @@
 *.pyc
 output/
+*.docx
+/trained_model
+*.pdf
+model.zip
+*.DS_Store
