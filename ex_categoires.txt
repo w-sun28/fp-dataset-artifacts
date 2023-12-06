@@ -1,0 +1,35 @@
+Not understanding the implications of words in the premise - 1, 33, 34, 35, 62*
+
+Not understanding the implications of words in the hypothesis - 7, 25, 28, 52, 59
+
+Probably due to lexical word overlap - 2, 16, 43*, 50*,
+
+Straight up wrong - 4, 8, 13, 56
+
+Gold label wrong - 39
+
+
+
+base mistakes - 19
+1 2 4 7 8 13 16 25 28 33 34 39 43 45 50 52 56 59 62
+
+ambiguous mistakes - 23
+1 2 4 5 7 8 13 16 25 28 32 34 35 36 39 40 43 47 50 52 56 59 62
+new mistakes
+5 36 39 40 47 59
+fixed mistakes 
+33 45
+
+lexical mistakes - 20
+1 2 4 5 7 8 13 16 25 28 34 35 36 39 43 47 50 56 59 62
+new mistakes
+5 35 36 47 
+fixed mistakes
+33 45 52
+
+combined mistakes - 20
+1 4 5 7 8 9 13 16 20 25 28 34 35 36 39 43 47 50 52 59
+new mistakes
+5 9 20 35 36 47
+fixed mistakes
+2 33 45 56 62
